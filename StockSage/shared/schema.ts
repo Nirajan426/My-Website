@@ -1,0 +1,1 @@
+// This file can be empty or removed since we're not using a database
